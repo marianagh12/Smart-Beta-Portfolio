@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Smart Beta Portfolio Project
 
-You can use the [editor on GitHub](https://github.com/marianagh12/Proyecto-Final/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This smart beta portfolio construction seeks for the ultimate combination of low risk and high profits using traditional ways like diversification combined with technology, machine learning algorithms
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Process
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
