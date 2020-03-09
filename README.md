@@ -6,24 +6,26 @@ This smart beta portfolio construction seeks for the ultimate combination of low
 ### Process
 
 The universe for this portfolio is created by stocks from the tech industry listed on NASDAQ and NYSE but also listed
-on the international market of Mexico(SIC).
-
+on the international market of Mexico (SIC).
+	 
 
 ```markdown
 
-The construction of this portfolio has 3 steps:
-1.Selection of top 5
-2.Creation of the portfolio sample 
-3.Optimization of the final 20 stocks.
+### The construction of this portfolio has 3 steps:
 
 
-## Selection of top 5
+1. Selection of top 5
+2. Creation of the portfolio sample 
+3. Optimization of the final 20 stocks.
+
+
+##Selection of top 5
 
 Taking the 40 stocks that conform the universe, each of these has a combined Score of 3 metrics weighted as below:
 
 Price Momentum = Shows the rate of change in price movement over a year.(.35)
 
-Volatiliy = The fluctuation of price in a year.(.35)
+Volatility = The fluctuation of price in a year.(.35)
 
 Company Size = (# stocks that are public or able to trade * price of the stock)(.30)
 
@@ -40,7 +42,7 @@ Once the data is clustered we take the 15 stocks nearest to the top 5 in distanc
 
 
 
-## Optimization of the portfolio
+##Optimization of the portfolio
 
 
 - Bulleted
