@@ -20,7 +20,8 @@ on the international market of Mexico (SIC).
 
 ```markdown
 
-Taking the 40 stocks that conform the universe, each of these has a combined Score of 3 metrics weighted as below:
+Taking the 40 stocks that conform the universe, each of these has a combined Score of 3 metrics
+weighted as below:
 
 * Price Momentum = Shows the rate of change in price movement over a year.(.35)
 
@@ -36,11 +37,15 @@ These measures were choosen due to the necessity to create a portfolio with grea
 
 ## Creating the Porfolio sample.
 
-Once we selected the top 5 stocks, we take the original universe of 40 stocks, calculate a daily return for the prices (Year).
-This data is clustered using the KMeans algorithm in Python.
-Once the data is clustered we take the 15 stocks nearest to the top 5 in distance.
+```markdown
 
+* Once we selected the top 5 stocks, we take the original universe of 40 stocks, calculate a daily return 
+for the prices over a year.
 
+* This data is clustered using the KMeans algorithm in Python.
+* Once the data is clustered we take the 15 stocks nearest to the top 5 in distance.
+
+```
 
 # Optimization of the portfolio
 
