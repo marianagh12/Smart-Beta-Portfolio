@@ -51,7 +51,7 @@ for the prices over a year.
 
 ```markdown
 
-* We have the ultimate collection of tech stocks for the porftolio, now we have to select the best combination to generate 
-better returns, to do this we use the optimization model for portfolios called the efficient frontier that allows you to 
-get the highest return for the lowest possible risk
+* We have the best sample of tech stocks for the porftolio, now we have to select the best combination
+to generate better returns, to do this we use the optimization model for portfolios called the efficient frontier 
+that allows you to get the highest return for the lowest possible risk
 
