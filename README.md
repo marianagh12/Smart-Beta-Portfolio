@@ -49,14 +49,9 @@ for the prices over a year.
 
 # Optimization of the portfolio
 
+```markdown
 
-- Bulleted
-- List
+* We have the ultimate collection of tech stocks for the porftolio, now we have to select the best combination to generate 
+better returns, to do this we use the optimization model for portfolios called the efficient frontier that allows you to 
+get the highest return for the lowest possible risk
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
