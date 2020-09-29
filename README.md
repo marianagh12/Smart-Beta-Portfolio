@@ -1,7 +1,7 @@
 
 ## Smart Beta Portfolio Project
 
-This smart beta portfolio construction seeks for the ultimate combination of low risk and high profits using traditional ways like diversification combined with the implementation of machine learning algorithms
+This smart beta portfolio construction seeks for the ultimate combination of low risk and high profits using traditional ways such as diversification combined with the implementation of machine learning algorithms
 
 ### Process
 
